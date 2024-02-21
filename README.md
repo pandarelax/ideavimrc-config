@@ -1,1 +1,1 @@
-* My .ideavimrc file for Jetbrains Ideavim plugin
+My .ideavimrc file for Jetbrains Ideavim plugin
